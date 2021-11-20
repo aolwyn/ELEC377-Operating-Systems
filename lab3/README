@@ -1,4 +1,2 @@
-The program developed by this group for this lab implements a simple hardware
-algorithm which uses the shared memory capability of modern operating systems to
-allow for synchronization between multiple processes. Specifically, the lab focused on
-the synchronization of consumer and producer programs that use shared memory.
+The program developed by this group for this lab implements a simple hardware algorithm which uses the shared memory capability of modern operating systems to
+allow for synchronization between multiple processes. Specifically, the lab focused on the synchronization of consumer and producer programs that use shared memory.
