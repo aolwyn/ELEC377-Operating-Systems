@@ -1,6 +1,6 @@
 /*+
  * Module:  lab2.c
- *Authored by: Adam Bayley and Samantha Hawco
+ *Authored by: Adam and Samantha 
  *
 -*/
 
